@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/GoogleCloudPlatform/golang-samples)
+
 # Google Cloud Platform Go Samples
 
 [![Kokoro Build Status][kokoro_badge]][kokoro_link]
